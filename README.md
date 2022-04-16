@@ -16,9 +16,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lais-peixoto&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
   
-  
-<div>
-  
-</div>
+ ![Snake animation](https://github.com/lais-peixoto/lais-peixoto/blob/output/github-contribution-grid-snake.svg)
   
 
