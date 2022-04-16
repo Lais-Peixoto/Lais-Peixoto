@@ -13,6 +13,11 @@ I'm a junior software developer passionate for technology and how it can impact 
 # Languages I worked with
 
 # Get some stats!
+<div align="center">
+  <a href="https://github.com/lais-peixoto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lais-peixoto&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lais-peixoto&layout=compact&langs_count=7&theme=material-palenight"/>
+</div>
 
 # Where you can find me
 
