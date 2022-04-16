@@ -10,7 +10,9 @@ I'm a junior software developer passionate for technology and how it can impact 
 - 👧 Pronouns: she/her
 - ⚡ Fun fact: I'm a Lord of The Rings' super fan!
 
+# Languages I worked with
 
+# Get some stats!
 
     
  ![snake svg](https://github.com/Lais-Peixoto/Lais-Peixoto/blob/output/github-contribution-grid-snake.svg)
