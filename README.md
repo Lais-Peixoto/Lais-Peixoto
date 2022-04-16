@@ -6,7 +6,7 @@ I'm a junior software developer passionate for technology and how it can impact 
 - 🔭 I’m currently working on my professional growth as a developer!
 - 🌱 I’m currently learning C# ASP.NET MVC
 - 🤔 I’m looking for help with SQL sintax and how to create super-power queries 😂
-- 💬 Ask me about if you need help with javascript, html, css, C#, Entity FrameWork and Middle-Earth doubts
+- 💬 Ask me about if you need help with javascript, html, css, C#, Entity FrameWork
 - 👧 Pronouns: she/her
 - ⚡ Fun fact: I'm a Lord of The Rings' super fan!
 
